@@ -6,3 +6,4 @@ langchain-ollama
 python-dotenv
 langchain-google-genai
 ipykernel
+importlib
