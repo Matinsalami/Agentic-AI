@@ -7,3 +7,6 @@ python-dotenv
 langchain-google-genai
 ipykernel
 importlib
+langgraph
+langsmith
+langchain_tavily
